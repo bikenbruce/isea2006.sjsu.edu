@@ -1,0 +1,161 @@
+/* CSS */
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	background-color:#fff;
+}
+
+#wrapper {
+	width:960px;
+	margin-left:auto;
+	margin-right:auto;
+	float:none;
+}
+
+a {
+	color:#66656c;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#66656c;
+	text-decoration:underline;
+}
+
+ul{
+	margin: 10px 0 0 0; 
+	padding:0;
+	list-style: none;
+}
+
+li{
+	color:#66656c;
+	font-family:12px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-left: 17px;
+	padding-bottom:5px;
+	padding-right:0px;
+	padding-top:0px;
+	background: url('../../_media/images/arrow.gif') no-repeat 0px 3px;
+	line-height:12px;
+}
+
+p {
+	color:#66656c;
+	font-family:13px;
+	padding-top:5px;
+	padding-bottom:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+
+/* Header Area */
+
+
+#header {
+	margin-top:51px;
+	float:left;
+	width:960px;
+	height:249px;
+	clear:both;
+	background-image:url(../../_media/images/08.jpg);
+	background-repeat:no-repeat;
+	background-position:bottom right;
+}
+
+#logo {
+	float:left;
+	width:205px;
+	height:249px;
+}
+
+#infoBox {
+	float:left;
+	width:755px;
+	background-image:url(../../_media/images/bg.gif);
+	background-repeat:repeat-y;
+	background-position:0 0;
+}
+
+.firstColumn {
+	width:193px;
+	padding-right:31px;
+	float:left;
+}
+
+.lastColumn {
+	float:left;
+	width:481px;
+	padding-left:31px;
+	padding-right:10px;
+}
+
+
+.lastColumn img {
+	margin-right:12px;
+}
+
+.text {
+	float:left;
+	padding-top:35px;
+	font-size:22px;
+	color:#66656c;
+	text-transform: uppercase;
+	line-height:27px;
+}
+
+.pinkColor {
+	color:#ec008c;
+}
+
+
+/* Content Area */
+
+#copy {
+	float:right;
+	color:#64636b;
+	font-size:9px;
+	height:14px;
+	line-height:16px;
+	margin-right:2px;
+}
+
+#sponsors {
+	width:960px;
+}
+
+#mainContent {
+	width:960px;
+	float:left;
+}
+
+.firstBox {
+	
+	width:205px;
+	float:left;
+}
+
+.box {
+	width:244px;
+	float:left;
+	margin-left:7px;
+}
+
+.middleBox {
+	width:241px;
+	float:left;
+	margin-left:8px;
+}
+
+.spacer {
+	margin-top:8px;
+	float:left;
+}
+
+.smallImage {
+	float:left;
+}
